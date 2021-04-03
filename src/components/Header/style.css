@@ -1,0 +1,20 @@
+.header{
+
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    margin: 15px;
+}
+
+.HeaderMenu{
+    display: inline-block;
+    margin: 0 20px;
+    text-decoration: none;
+    color:darkmagenta;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.HeaderMenu a-hover{
+    color: darkgreen;
+}
