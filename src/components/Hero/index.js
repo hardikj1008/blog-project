@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import Navbar from '../Navbar'
 import Card from '../UI/Cards'
 import './style.css'
